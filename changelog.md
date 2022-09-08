@@ -1,6 +1,6 @@
-# Release History
+# Weather DB Sqlite changelog
 
-## v2.3.0
+## [2.3.0] - UNRELEASED
 
 ### Breaking Changes
 * None.
@@ -17,6 +17,6 @@
 ### Notes
 * None.
 
-# v2.2.0
+# [2.2.0]
 
 Initial open source release of weather-db-sqlite.
